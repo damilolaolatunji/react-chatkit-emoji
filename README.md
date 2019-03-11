@@ -1,6 +1,6 @@
 # Add Emoji to Chatkit Messages
 
-Send emoji in a chatroom built using React and Chatkit. Tutorial:
+Send emoji in a chatroom built using React and Chatkit. Tutorial: https://pusher.com/tutorials/emojis-react-chatroom
 
 ## Getting Started
 
